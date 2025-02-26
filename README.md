@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple Banking Website</title>
+    <title>The Gadhinglaj Urban Co-Op. Bank Ltd., Gadhinglaj</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -49,7 +49,7 @@
 </head>
 <body>
     <header>
-        Simple Bank
+        The Gadhinglaj Urban Co-Op. Bank Ltd., Gadhinglaj
     </header>
     <nav>
         <a href="#home">Home</a>
@@ -58,7 +58,7 @@
         <a href="#contact">Contact</a>
     </nav>
     <div class="container" id="home">
-        <h2>Welcome to Simple Bank</h2>
+        <h2>Welcome to The Gadhinglaj Urban Co-Op. Bank Ltd., Gadhinglaj</h2>
         <p>We offer secure banking solutions with high-interest deposits and easy loans.</p>
     </div>
     <div class="container" id="deposits">
@@ -71,11 +71,13 @@
     </div>
     <div class="container" id="contact">
         <h2>Contact Us</h2>
-        <p>Email: contact@simplebank.com</p>
-        <p>Phone: +1 234 567 890</p>
+        <p>Email: ho@gadurban.com, gadubanho@gmail.com</p>
+        <p>Phone: 02327-222234</p>
     </div>
     <footer>
-        &copy; 2025 Simple Bank. All rights reserved.
+        &copy; 2025 The Gadhinglaj Urban Co-Op. Bank Ltd., Gadhinglaj. All rights reserved.
     </footer>
 </body>
 </html>
+
+     
